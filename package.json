@@ -10,9 +10,13 @@
   },
   "dependencies": {
     "expo": "~50.0.17",
+    "expo-contacts": "~12.8.2",
     "expo-status-bar": "~1.11.1",
+    "expo-task-manager": "^11.7.3",
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "react-native-background-fetch": "^4.2.5",
+    "expo-background-fetch": "~11.8.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
